@@ -12,6 +12,8 @@
     <description></description>
     <url></url>
     <properties>
+	    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spark.version>2.3</spark.version>
         <hibernate.version>4.3.5.Final</hibernate.version>
         <hibernate.validator.version>5.2.2.Final</hibernate.validator.version>
